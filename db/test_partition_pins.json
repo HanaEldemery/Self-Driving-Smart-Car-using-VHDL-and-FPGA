@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BRA",
+					"strict" : false
+				},
+				{
+					"name" : "BLC",
+					"strict" : false
+				},
+				{
+					"name" : "FRA",
+					"strict" : false
+				},
+				{
+					"name" : "FLA",
+					"strict" : false
+				},
+				{
+					"name" : "led1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ir",
+					"strict" : false
+				},
+				{
+					"name" : "lane",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
