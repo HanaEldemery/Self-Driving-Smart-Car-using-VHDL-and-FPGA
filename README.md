@@ -1,1 +1,5 @@
-# Why
+# Digital System Design
+I worked on a smart car project, which involved designing and implementing a self-driving car using FPGA technology.
+I developed a car that could autonomously follow a designated lane and respond to obstacles in its path. My implementation involved writing VHDL code to control the car's movements and integrate various sensors. The car was designed to move forward along a straight lane, using a lane-following sensor to stay on course. If the car drifted outside the lane, a warning message "ALERT" was displayed on the 7-segment display, alerting the system of the deviation.
+Additionally, the car was equipped with an obstacle detection sensor. If an obstacle was detected in front of the car, the sensor would trigger the car to stop immediately, preventing a collision. This real-time response was crucial in simulating the behavior of an autonomous vehicle in a controlled environment.
+This project allowed me to apply digital system design principles to a practical scenario, deepening my understanding of FPGA technology and real-time systems. It was a rewarding experience that combined both hardware and software elements, culminating in a successful demonstration of a smart car prototype.
